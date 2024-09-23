@@ -19,6 +19,10 @@ El proyecto presenta una serie de flores que se dibujan dinámicamente al hacer 
 1. Clona el repositorio o descarga el archivo ZIP.
 2. Abre el archivo `index.html` en un navegador web moderno.
 3. Haz clic en la pantalla para crear nuevas flores.
+4.  o tambien puedes revisar mi pagina.
+    ```bash
+      https://danzellr.github.io/floresamarillas/
+    
 
 ## Archivos
 
